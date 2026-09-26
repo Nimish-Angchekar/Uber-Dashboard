@@ -1,0 +1,8 @@
+| Purpose        | Color          | Hex       |
+| -------------- | -------------- | --------- |
+| Main / Headers | Charcoal Black | `#181A1B` |
+| Primary Accent | Uber Green     | `#06C167` |
+| Background     | Off White      | `#F5F6F7` |
+| Secondary Text | Slate Grey     | `#6B7280` |
+| Cards          | White          | `#FFFFFF` |
+Muted Red: #E25555
